@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dirck de Kleer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:  
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dirck
+last_name: de Kleer
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student in Social and Political Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Bocconi University
     url: https://www.example.com/
 
 # Social network links
@@ -169,4 +169,10 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a 4th-year PhD Student in Social and Political Science at Bocconi University. My research focuses on understanding how citizens and politicians in Western liberal democracies navigate the boundaries between liberal and illiberal political views and actions. In other work, I explore the social and political consequences of far-right parties and actors in government. In a recent paper, Simon van Teutem, Catherine de Vries and I study if and when citizens support disruptive and violent climate protests.
+
+During the 2023-24 academic year I was a visiting student at the Mamdouha S. Bobst Center for Peace and Justice at Princeton University and at the Department of Government at the London School of Economics. I also served as an APSA Public Scholar Fellow during the 2023-24 A.Y. You can find my public-faced summaries of APSR articles on politicalsciencenow.com.
+
+Before my doctoral studies, I earned an MA in Liberal Studies and Graduate Certificate in Interdisciplinary European Studies from Duke University (Concentration: Political Science), where I was a Fulbright Scholar, and an MA in Media Studies from Erasmus University (NL).
+
+
